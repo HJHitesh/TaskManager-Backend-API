@@ -142,3 +142,31 @@ http://localhost:8082/tasks
 2. Frontend sends HTTP requests to the **Spring Boot backend API** on EC2.
 3. Backend performs CRUD operations on the **MySQL database**.
 4. Responses are returned to the frontend for display.
+
+## Screenshots
+
+### Swagger UI
+
+![Swagger UI](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/SWAGGER.png)
+
+### CREATE Task List
+
+![CREATE](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/CREATE.png)
+
+### UPDATE Task List
+
+![CREATE](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/UPDATE.png)
+
+### EDIT Task List
+
+![CREATE](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/EDIT.png)
+
+### FILTER Task List
+
+![CREATE](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/FILTER.png)
+
+### LIST Task List
+
+![CREATE](https://github.com/HJHitesh/TaskManager-Backend-API/blob/master/LIST.png)
+
+
